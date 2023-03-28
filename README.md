@@ -4,6 +4,7 @@
 
 ### Testing Documentation
 - [Checklists](https://github.com/Vyacheslav-job/checklist)
+- [Test-Cases](https://github.com/Vyacheslav-job/test-cases)
 - [Bug-Reports](https://github.com/Vyacheslav-job/bug-reports)
 
 ### Language and Tools
