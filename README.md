@@ -6,6 +6,7 @@
 - [Checklists](https://github.com/Vyacheslav-job/checklist)
 - [Test-Cases](https://github.com/Vyacheslav-job/test-cases)
 - [Bug-Reports](https://github.com/Vyacheslav-job/bug-reports)
+- [Postman Collections](https://github.com/Vyacheslav-job/postman)
 
 ### Language and Tools
 ![Jira](https://img.shields.io/badge/-Jira-343434?style=for-the-badge&logo=Jira&logoColor=136BE5)
