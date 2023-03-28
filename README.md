@@ -14,6 +14,8 @@
 ![Python](https://img.shields.io/badge/-Python-343434?style=for-the-badge&logo=python&logoColor=FFD041)
 ![Postman](https://img.shields.io/badge/-Postman-343434?style=for-the-badge&logo=postman&logoColor=FF6B35)
 ![DevTools](https://img.shields.io/badge/-DevTools-343434?style=for-the-badge&logo=appveyor&logoColor=97CA00)
+![Header](https://img.shields.io/badge/Github-343434?style=for-the-badge&logo=github&logoColor=8cc4d7)
+![Header](https://img.shields.io/badge/AndroidStudio-343434?style=for-the-badge&logo=androidstudio&logoColor=3ad07d)
 
 
 ### Follow me
