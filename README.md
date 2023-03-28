@@ -1,16 +1,21 @@
-### Hi there 👋
+![Header](https://github.com/Vyacheslav-job/Vyacheslav-job/blob/main/assets/picture.PNG)
 
-<!--
-**Vyacheslav-job/Vyacheslav-job** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I`m a beginner QA engineer
 
-Here are some ideas to get you started:
+### Testing Documentation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Language and Tools
+![Jira](https://img.shields.io/badge/-Jira-343434?style=for-the-badge&logo=Jira&logoColor=136BE5)
+![SQL](https://img.shields.io/badge/-SQL-343434?style=for-the-badge&logo=mySql&logoColor=ED7000)
+![Git](https://img.shields.io/badge/-Git-343434?style=for-the-badge&logo=Git&logoColor=EF3C2D)
+![HTML](https://img.shields.io/badge/-HTML-343434?style=for-the-badge&logo=html5&logoColor=E9B816)
+![CSS](https://img.shields.io/badge/-CSS-343434?style=for-the-badge&logo=stylus&logoColor=27EFEE)
+![Python](https://img.shields.io/badge/-Python-343434?style=for-the-badge&logo=python&logoColor=FFD041)
+![Postman](https://img.shields.io/badge/-Postman-343434?style=for-the-badge&logo=postman&logoColor=FF6B35)
+![DevTools](https://img.shields.io/badge/-DevTools-343434?style=for-the-badge&logo=appveyor&logoColor=97CA00)
+
+
+### Follow me
+[![vk](https://img.shields.io/badge/-vkontakte-343434?style=for-the-badge&logo=vk&logoColor=0077FF)](https://vk.com/id61752427)
+[![telegram](https://img.shields.io/badge/-telegram-343434?style=for-the-badge&logo=telegram&logoColor=23A0DC)](https://t.me/Vyacheslav_Yanyutin)
